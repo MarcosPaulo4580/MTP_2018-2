@@ -1,5 +1,5 @@
 /* P6.c */
-/* Marcos Paulo Arruda */
+/* Marcos Paulo Arruda Freitas */
 /* 11811EEL011 */
 
 #include <stdio.h>
